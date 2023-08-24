@@ -4,8 +4,13 @@ function NavBar() {
     return (
         <nav>
             <ul>
+                <Link href="/">
+                    Home
+                </Link>
+            </ul>
+            <ul>
                 <Link href="/about">
-                    <a>About</a>
+                    About
                 </Link>
             </ul>
         </nav>

@@ -1,16 +1,17 @@
-import NavBar from './NavBar';
+import Head from 'next/head';
 
 function HomePage() {
-    return (
-        <>
-            <header>
-                <NavBar />
-            </header>
-            <main>
-                <h1>My Blog</h1>
-            </main>
-        </>  
-    );
+  return (
+    <>
+        <Head>
+            <title>Kat's Blog</title>
+            <meta name="description" value="This is my blog" />
+        </Head>
+        <main>
+            <h1>My Blog</h1>
+        </main>
+    </>
+  );
 }
 
 export default HomePage;

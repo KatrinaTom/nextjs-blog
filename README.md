@@ -15,11 +15,17 @@ This project was started from scratch rather than using the create react app.
 
 **Add Pages**
 
-* Pages folder > any .js file in here, is a page
+* Pages folder > any .js file in here, is a page.
+* File based system router
 
 
 Client side navigation is faster. 
 The next router is using client side navigation.
+
+__app.js file is rendered first. 
+
+
+
 
 ## Screenshots
 
