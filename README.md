@@ -11,6 +11,15 @@ This project was started from scratch rather than using the create react app.
 
 ``npm run dev``
 
+## Learning Notes
+
+**Add Pages**
+
+* Pages folder > any .js file in here, is a page
+
+
+Client side navigation is faster. 
+The next router is using client side navigation.
 
 ## Screenshots
 
