@@ -25,6 +25,8 @@ The next router is using client side navigation.
 __app.js file is rendered first. 
 
 
+## Styling
+styled-jsx (one type of styling library)
 
 
 ## Screenshots
